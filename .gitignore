@@ -37,3 +37,7 @@ yarn-error.log*
 
 # package.lock file
 package-lock.json
+
+# yarn
+yarn-error.log
+yarn.lock
